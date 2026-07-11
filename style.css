@@ -272,27 +272,50 @@ main section .Meet {
   color: #575757;
 }
 /* footer */
-.footer-nav{
-  background-color: #0d1b2a;
+.footer-nav {
+  background: #0d1b2a;
+  padding: 30px 0 25px;
 }
-.navber-foot{
+.footer-big-perent {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.footer-perent {
   display: flex;
   justify-content: space-between;
-  margin: auto;
+  padding: 20px;
   align-items: center;
-  padding: 40px;
 }
-.container-foot{
-  max-width: 1300px;
-}
-.all-rights{
-  color: #575757;
-  cursor: pointer;
-}
-.privacy{
-  color: #575757;
-  align-items: center;
+
+.footer-right a {
+  width: 50px;
+  height: 50px;
+  background: #1b263b;
+  border-radius: 50%;
   display: flex;
-  gap: 50px;
-  cursor: pointer;
+  justify-content: center;
+  align-items: center;
+}
+.footer-right {
+  display: flex;
+  gap: 20px;
+}
+.footer-right img {
+  width: 24px;
+  height: 24px;
+}
+.divider{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+}
+.divider-link{
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+.divider p{
+color: #575757;
 }

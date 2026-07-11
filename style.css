@@ -273,3 +273,27 @@ main section .Meet {
   color: #575757;
 }
 /* footer */
+.footer-nav{
+  background-color: #0D1B2A;
+}
+.navber {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+  padding: 40px;
+}
+.container {
+  max-width: 1300px;
+}
+.all-rights{
+  color:#575757 ;
+  cursor: pointer;
+}
+.privacy{
+color: #575757 ;
+align-items: center;
+display: flex;
+gap: 50px;
+cursor: pointer;
+}

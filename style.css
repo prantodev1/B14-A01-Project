@@ -275,6 +275,16 @@ main section .Meet {
 .footer-nav {
   background-color: #0d1b2a;
 }
+.navber-foot{
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  align-items: center;
+  padding: 40px;
+}
+.container-foot{
+  max-width: 1300px;
+}
 .all-rights {
   color: #575757;
   cursor: pointer;

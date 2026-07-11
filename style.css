@@ -272,7 +272,7 @@ main section .Meet {
   color: #575757;
 }
 /* footer */
-.footer-nav {
+.footer-nav{
   background-color: #0d1b2a;
 }
 .navber-foot{
@@ -285,11 +285,11 @@ main section .Meet {
 .container-foot{
   max-width: 1300px;
 }
-.all-rights {
+.all-rights{
   color: #575757;
   cursor: pointer;
 }
-.privacy {
+.privacy{
   color: #575757;
   align-items: center;
   display: flex;

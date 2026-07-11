@@ -145,7 +145,7 @@ main section .Meet {
   background: #fff;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
 }
-.secure-text{
+.secure-text {
   font-size: 50px;
 }
 .secure-text p {
@@ -239,8 +239,7 @@ main section .Meet {
 }
 .schedule-title p {
   color: #575757;
-   font-weight: bold;
-
+  font-weight: bold;
 }
 .schedule-item {
   display: flex;
@@ -273,27 +272,17 @@ main section .Meet {
   color: #575757;
 }
 /* footer */
-.footer-nav{
-  background-color: #0D1B2A;
+.footer-nav {
+  background-color: #0d1b2a;
 }
-.navber {
-  display: flex;
-  justify-content: space-between;
-  margin: auto;
-  align-items: center;
-  padding: 40px;
-}
-.container {
-  max-width: 1300px;
-}
-.all-rights{
-  color:#575757 ;
+.all-rights {
+  color: #575757;
   cursor: pointer;
 }
-.privacy{
-color: #575757 ;
-align-items: center;
-display: flex;
-gap: 50px;
-cursor: pointer;
+.privacy {
+  color: #575757;
+  align-items: center;
+  display: flex;
+  gap: 50px;
+  cursor: pointer;
 }
